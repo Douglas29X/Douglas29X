@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m @Douglas29X
-- 👀 I’m interested in the development of any high schools topics, like physics, chemistry, math, biology, etc.
+- 👀 I’m interested in the development of any fun projects, like codes for games, for scientific purposes, etc.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: Discord (detonaxtreme#2753).
 
