@@ -1,6 +1,6 @@
-- 👋 Hello there, I’m @Douglas29X
-- 👀 I’m interested in the development of any projects, like codes for websites, robots, scientific purposes etc.
-- 🌱 I’m currently improving my habilities in Python and automation (robotics, IA) and in HTML5 + CSS3.
+- 👋 Hello there, I’m @Douglas29X, medical student and developer
+- 👀 I’m interested in the development of projects related to health sector, with focus on neurology and physiology
+- 🌱 I’m currently improving my habilities in Python
 - 📫 How to reach me: 
 - Discord: Douglas29X#5240, or email: douglas.29oficial@gmail.com.
 
