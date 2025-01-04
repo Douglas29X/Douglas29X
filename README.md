@@ -2,7 +2,7 @@
 - 👀 I’m interested in the development of projects related to health sector, with focus on neurology and physiology
 - 🌱 I’m currently improving my habilities in Python
 - 📫 How to reach me: 
-- Discord: Douglas29X#5240, or email: douglas.29oficial@gmail.com.
+- Discord: Douglas29X#5240, or email: development.hotz@gmail.com.
 
 <!---
 Douglas29X/Douglas29X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
